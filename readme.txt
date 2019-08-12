@@ -6,4 +6,3 @@ Creating a new branch is quick & simple
 Git branch dev
 Git bug fixed
 Git I very good
-Git a new branch 'feature-vulcan'

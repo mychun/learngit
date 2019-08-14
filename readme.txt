@@ -7,3 +7,4 @@ Git branch dev
 Git bug fixed
 Git I very good1
 Git init hello
+Git add author
